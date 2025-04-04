@@ -32,7 +32,7 @@ This is my personal portfolio website showcasing my experience, skills, and proj
 
 ## 📌 Setup & Deployment
 ## 🔹 Clone this repository
- git clone https://github.com/yourusername/portfolio.git
+ git clone https://github.com/LeboMadela/MyResume_mmadela.git
  cd portfolio
 
 ## 🔹 Open in VS Code
