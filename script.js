@@ -14,7 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Show button when scrolling down
     window.addEventListener("scroll", function () {
-        if (window.scrollY > 300) { // Adjust when the button should appear
+        if (window.scrollY > 300) {
+            // Adjust when the button should appear
             backToTopButton.style.display = "block";
         } else {
             backToTopButton.style.display = "none";
